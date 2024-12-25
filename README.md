@@ -1,1 +1,1 @@
-# HexSoftwares_Agric_Chatbot by Jeffrey Murungweni
+# Mudhumeni_Agric_Chatbot by Jeffrey Murungweni
